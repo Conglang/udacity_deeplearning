@@ -48,6 +48,7 @@ Temporary Items
 
 # Jupyter notebook checkpoints
 .ipynb_checkpoints
+__pycache__
 
 # Other
 cifar-10-batches-py
@@ -58,3 +59,5 @@ cifar-10-python.tar.gz
 *.pyc
 checkpoint
 image_classification.data-00000-of-00001
+mnist
+img_align_celeba
